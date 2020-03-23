@@ -27,3 +27,7 @@ body {
 .card-title{
   font-weight: 600 !important; 
 }
+
+.comment-container .media{
+  margin-top: 40px;
+}
